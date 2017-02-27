@@ -1,2 +1,5 @@
 # hello-world
-repository du guide Github Hello World !
+Coucou !
+J'aime bien les rhododendrons !
+Et aussi les frites...
+Et le baby-foot #jesuisgenial
